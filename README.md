@@ -1,11 +1,10 @@
-# Heisenberg
+
 Voice Assistant in python 
 
 #### Packages needs to install
 
 <!-- Code block-->
 
-```bash
 pip install pyttsx3
 pip install wikipedia
 pip install requests
@@ -29,7 +28,8 @@ pip install pyperclip
 pip install opencv-python
 pip install pysqlite3
 pip install db-sqlite3
-```
+
+
 For installation of pyaudio
 ```bash
 pip intall pipwin
